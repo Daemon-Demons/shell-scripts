@@ -1,4 +1,4 @@
-# 🐚 Shell Scripts
+# </> Shell Scripts
 
 This repository is a collection of shell scripts created for learning, experimenting, and improving Bash/shell scripting skills. It includes everything from basic syntax examples to more advanced scripting techniques and system automation.
 
